@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.Math;
 
 public class rockstarGames {
-    private static Scanner input = new Scanner(System.in);
+    private static final Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
         calcularEntrada();
