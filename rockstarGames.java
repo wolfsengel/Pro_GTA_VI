@@ -1,3 +1,5 @@
+
+
 import java.util.*;
 import java.lang.Math;
 
@@ -27,6 +29,7 @@ public class rockstarGames {
                 }
             }
             System.out.println("El precio es: " + prezo);
+	    System.out.println("Hola gente");
         }
     }
 }
